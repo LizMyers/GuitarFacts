@@ -3,7 +3,7 @@ var FACTS = [
     "Eine Gitarre mit sieben Saiten heißt eine Zigeunergitarre.",
     "Das kleinste Gitarre der Welt ist 10 Mikrometer lange mit 50 Saiten die 100 Atome breite sind.",
     "Das älteste gitarren ähnliche Instrument ist ungefaehr 3500 Jahre alt.",
-    "Erst im vierzehnten Jahrhundert in Spanien sind Gitarren erst gespielt worden, wo sie vom die Viheula herkammen. Die erste Musik für Gitarre wurde im 1546 herausgegeben.",
+    "Erst im vierzehnten Jahrhundert in Spanien sind Gitarren gespielt worden. Sie kammen von der Viheula her. Das erste Musik für die Gitarre wurde im 1546 herausgegeben.",
     "Am ersten Mai 2009, in Poland ist das größte Gitarren- Ensemble erreicht, mit 6,346 Teilnehmer.",
     "Das Wort, Gitarre, stammt aus verschiedene Sprachen – von der Spanischen Gitarre, bis zum Arabischen Qitara, bis zum uralten Griechischen Kithara.",
     "Bevor die moderne Nylon Technologie, Saiten wurden aus Tierdämen gemacht.",
