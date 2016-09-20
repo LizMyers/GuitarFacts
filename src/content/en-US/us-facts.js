@@ -7,7 +7,7 @@ var FACTS = [
     "The largest guitar ensemble was achieved by 6,346 participants in Poland on 1st May 2009.",
     "The word Guitar comes from different languages from the Spanish guitarra, to the Arabic qitara all the way back to ancient Greece\’s kithara.",
     "Strings used to be made from animal intestines prior to modern nylon technology.",
-    "Many classical guitarists borrow music written for other instruments for performance since the guitar has not been around a long as some others.",
+    "Many classical guitarists borrow music written for other instruments for performance, since the guitar has not been around as long as some others.",
     "The name guitar has its origins in the Latin word Cithara. It wasn\'t until the 1200s that an instrument began to use the name. The Guitarra Moresca (Moorish Guitar) and Guitarra Latina (Latin Guitar). ",
     "Andrés Segovia, was a virtuoso Spanish classical guitarist from Linares, Spain. He is regarded as one of the greatest guitarists of all time and the grandfather of the classical guitar.",
     "Segovia\'s first public performance was in Granada at the age of 16 in 1909. A few years later he played his first professional concert in Madrid, which included works by Francisco Tárrega and his own guitar transcriptions of J.S. Bach.",

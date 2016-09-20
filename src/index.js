@@ -23,8 +23,7 @@ var handlers = {
     'GetNewFactIntent': function () {
         /*----CHECK REQUEST LOCATION----*/
         location = this.event.request.locale;
-        console.log("location: "+ location);
-        //location = "de-DE";
+        console.log("location: "+ location);   
 
         /*----USE LOCALIZED CONTENT----*/
         switch(location) {
