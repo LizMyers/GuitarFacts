@@ -1,0 +1,23 @@
+/* -------------------------------
+DE-NAME:
+
+Tatsachen über Gitarre
+
+DE-INVOCATION NAME:
+
+tatsachen über gitarre
+--------------------------------*/
+
+GetNewFactIntent gitarre tatsachen
+GetNewFactIntent nach einer gitarre tatsache
+GetNewFactIntent nach einer tatsache
+GetNewFactIntent nach einem fakt
+GetNewFactIntent gitarre tatsache
+GetNewFactIntent gib mir ein fakt
+GetNewFactIntent gitarre tatsache
+GetNewFactIntent eine tatsache ueber gitarre
+GetNewFactIntent sag mir eine Tatsache
+GetNewFactIntent gib mir eine Tatsache
+GetNewFactIntent gib mir eine tatsache ueber gitarre
+GetNewFactIntent gib mir etwas
+GetNewFactIntent sag mir etwas
