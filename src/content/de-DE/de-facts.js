@@ -1,19 +1,19 @@
 var FACTS = [
-    "Gitarresaiten sind oft Dämesaiten genannt, weil die ursprünglich aus Schafendäme gemacht worden sind.",
-    "Eine Gitarre mit sieben Saiten heißt eine Zigeunergitarre.",
-    "Das kleinste Gitarre der Welt ist 10 Mikrometer lange mit 50 Saiten die 100 Atome breite sind.",
-    "Das älteste gitarren ähnliche Instrument ist ungefaehr 3500 Jahre alt.",
-    "Erst im vierzehnten Jahrhundert in Spanien sind Gitarren gespielt worden. Sie kammen von der Viheula her. Das erste Musik für die Gitarre wurde im 1546 herausgegeben.",
-    "Am ersten Mai 2009, in Poland ist das größte Gitarren- Ensemble erreicht, mit 6,346 Teilnehmer.",
-    "Das Wort, Gitarre, stammt aus verschiedene Sprachen – von der Spanischen Gitarre, bis zum Arabischen Qitara, bis zum uralten Griechischen Kithara.",
-    "Bevor die moderne Nylon Technologie, Saiten wurden aus Tierdämen gemacht.",
-    "Da die Gitarre jünger als andere Instrumente ist, viele von den klassischen Gitarrenspieler leihen Musik für ihre Vorträge, die für andere Instrumente geschrieben worden war.",
-    "Das Wort, Gitarre, stammt aus dem Lateinischen, Cithara. Es war erst im 1200, wo das Instrument die Gitarre genannt worden war. (Der Name kamm von dem Moorischen und Lateinischen her.)",
-    "Andrés Segovia, der von Linares Spanien stammte, war ein virtuoso klassicher Gitarrenspieler. Er ist als Weltmeister und Grossvater von der klassischen Gitarre gesehen.",
-    "Um 1909 gab Segovia sein erster öffentlicher Vortrag in Grenada, als er 16 Jahre alt war. Ein paar Jahre später, gab er seinen ersten professionellen Konzert in Madrid, wo er die Musik von  Tarrèga, sowohl seine eigene Abschriften von Bach, spielte.",
-    "Julien Bream, englishcer klassichen Gitarre und Lautenspieler, hat eine wichtige Rolle gespielt in der Wahrnehmung von der klassichen Gitarre als seriöse Instrument.",
-    "Fernando Sor war einer von den höchst produktiven Konponisten und Promoter der Guitarre als Konzertinstrument in den letzten zwei hundert Jahren. Er hat den Weg for Andrés Segovia und anderen geführt.",
-    "Heiter Villa-Lobos is einer der wichtigsten klassische Gitarrekomponiste. Mit dem film, Deer Runner, ist sein Choros Nummer 1 weltberühmt geworden."
+    "Gitarrensaiten werden oft Darmsaiten genannt, weil sie ursprünglich aus Schafs- und Ziegendärme gemacht worden sind.",
+    "Eine Gitarre mit sieben Saiten heißt Gypsy-Gitarre, früher auch Zigeunergitarre genannt.",
+    "Das kleinste Gitarre der Welt ist 10 Mikrometer lange mit 50 Nanometer, das sind 100 Atome, breiten Saiten.",
+    "Das älteste Gitarren ähnliche Instrument ist ungefaehr 3500 Jahre alt.",
+    "Das erste Mal wurden Gitarren im vierzehnten Jahrhundert in Spanien gespielt. Sie stammt von der Vihuela ab. Die erste Musik für die Gitarre wurde 1546 veröffentlicht.",
+    "Das größte Gitarrenensemble gab es am ersten Mai 2009 in Polen mit 6.346 Teilnehmern.",
+    "Das Wort, Gitarre, stammt aus verschiedene Sprachen ab– von der spanischen Gitarre, dem arabischen Qitara, bis zum uralten griechischen Kithara.",
+    "BVor der modernen Nylontechnologie wurden Saiten aus Tierdärmen gemacht.",
+    "Viele klassische Gitarrenspieler nutzen Musik, die für andere Insturmente geschrieben wurde, da es die Gitarre noch nicht so lange gibt.",
+    "Das Wort, Gitarre, stammt aus dem Lateinischen, Cithara. Erst ab dem 13.Jahrhundert wurde das Instrument Gitarre genannt. (Der Name stammt aus dem moorischen und lateinischen ab.)",
+    "Andrés Segovia, der aus Linares in Spanien stammte, war ein virtuoser klassicher Gitarrenspieler. Er wird als Meister und Grossvater der klassischen Gitarre gesehen.",
+    "Um 1909 gab Segovia seinen ersten öffentlichen Vortrag in Grenada. Er war 16 Jahre alt. Ein paar Jahre später, gab er sein erstes professionelles Konzert in Madrid. Er spielte sowohl die Musik von Francisco Tarrèga, als auch seine eigenen Transkription von Bach.",
+    "Julien Bream, ein klassicher Gitarren- und Lautenspieler aus England, spielte eine wichtige Rolle, die klassichen Gitarre als seriöses Instrument zu etablieren.",
+    "Fernando Sor war einer der produktivsten Konponisten und Promoter der Guitarre als Konzertinstrument in den letzten zweihundert Jahren. Er hat den Weg für Andrés Segovia und Andere geebnet.",
+    "Heiter Villa-Lobos ist einer der wichtigsten klassische Gitarrekomponiste. Mit dem Film, Deer Runner, ist sein Choros Nummer 1 weltberühmt geworden."
 ];
 
 module.exports = FACTS;
