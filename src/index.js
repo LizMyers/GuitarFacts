@@ -64,7 +64,7 @@ var handlers = {
 
         // Create speech output
         if (location == 'de-DE') {
-            var speechOutput = "Hier ist Deine Tatsache: " + randomFact;
+            var speechOutput = "Hier ist Dein Fakt: " + randomFact;
         } else {
             var speechOutput = "Here's your fact: " + randomFact;
         }
